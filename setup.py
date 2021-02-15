@@ -10,7 +10,7 @@ description = 'liabrary to conversion of digital number system and calculate com
   author = 'Abhijeet Khatri',                   
   author_email = 'abhijeetkhatri@gmail.com',      
   url = 'https://github.com/AbhijeetJK/akmathpy.git',
-download_url ='https://github.com/AbhijeetJK/akmath/archive/1.0.tar.gz',  
+download_url ='https://github.com/AbhijeetJK/akdigitalpy/archive/1.0.0.tar.gz',  
   keywords = ['ditalpy', 'Binary', 'Decimal','Octal','Hexadecimal','Compliment'],   
   install_requires=[            
           'akdigitalpy',
