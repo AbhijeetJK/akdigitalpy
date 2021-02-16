@@ -1,4 +1,4 @@
-# akmathpy
+# akdigitalpy
 Liabrary for conversion of digital number system and calculate complement.
 
 ## Installation
