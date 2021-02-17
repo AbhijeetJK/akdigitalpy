@@ -11,7 +11,7 @@ description = 'liabrary to conversion of digital number system and calculate com
   author_email = 'abhijeetkhatri@gmail.com',      
   url = 'https://github.com/AbhijeetJK/akdigitalpy.git',
 download_url ='https://github.com/AbhijeetJK/akdigitalpy/archive/1.0.0.tar.gz',  
-  keywords = ['ditalpy', 'Binary', 'Decimal','Octal','Hexadecimal','Compliment'],   
+  keywords = ['ditalpy', 'Binary', 'Decimal','Octal','Hexadecimal','Complement'],   
   install_requires=[            
           'akdigitalpy',
       ],
